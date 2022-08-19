@@ -1,0 +1,11 @@
+--2022-07-28 21:26:16--  https://dingyue.suying666.info/link/6fhAwRaT4Fb0hOuC?clash=1
+正在解析主机 dingyue.suying666.info (dingyue.suying666.info)... 103.68.223.250
+正在连接 dingyue.suying666.info (dingyue.suying666.info)|103.68.223.250|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度： 48835 (48K) [application/octet-stream]
+正在保存至: “config.yml”
+
+config.yml            0%[                    ]       0  --.-KB/s               config.yml          100%[===================>]  47.69K  --.-KB/s    用时 0.1s  
+
+2022-07-28 21:26:18 (380 KB/s) - 已保存 “config.yml” [48835/48835])
+
